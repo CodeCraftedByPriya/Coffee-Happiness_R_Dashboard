@@ -28,13 +28,13 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 The **Happiness vs Coffee Consumption** project explores the relationship between global happiness levels and coffee consumption per capita.  
 Using R, this project combines **data scraping**, **data cleaning**, and **visual analytics** to reveal how lifestyle habits (like coffee drinking ☕) correlate with national happiness scores 😊.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Combine **World Happiness Index 2024** data with **Coffee Consumption by Country**  
 - Analyze if happier countries tend to consume more coffee  
 - Visualize patterns using interactive and static graphs  
@@ -42,7 +42,7 @@ Using R, this project combines **data scraping**, **data cleaning**, and **visua
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. **Data Collection**  
    - Read Happiness dataset (`happiest-countries-in-the-world-2025.csv`)  
@@ -64,14 +64,14 @@ Using R, this project combines **data scraping**, **data cleaning**, and **visua
 
 ---
 
-## 🧩 Languages Used
+## Languages Used
 | Language | Purpose |
 |-----------|----------|
 | **R** | Core programming language for data scraping, cleaning, and visualization |
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 | Category | Libraries |
 |-----------|------------|
 | Data Handling | `readr`, `dplyr`, `tidyr`, `stringr` |
@@ -83,7 +83,7 @@ Using R, this project combines **data scraping**, **data cleaning**, and **visua
 
 ---
 
-## 💡 Key Features
+## Key Features
 - Dynamic merging of happiness and coffee data  
 - Automatic column detection for web-scraped data  
 - Clean, reproducible data transformation pipeline  
